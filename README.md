@@ -1,3 +1,3 @@
 # test
-This is a test md.
+This is a test md
 
